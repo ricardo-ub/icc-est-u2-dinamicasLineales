@@ -1,18 +1,24 @@
-## Getting Started
+# Practica: Dinamicas Lineales en Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Datos del Estudiante
+- **Nombre:** Ricardo Emilio Uzhca Benavides
+- **Curso:** Grupo 1
+- **Fecha:** 08/06/02026
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Fecha:** 08/06/2026
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**Descripcion:**
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+En esta seccion se implementaran las siguientes estrucutras dinamicas lineales
 
-## Dependency Management
+- Listas enlazadas con LinkedList
+- Pilas con Stack y Deque
+- Colas con Queue
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+Ejercicio 1: Invertir un String utilizando una pila
+
+![alt text](image.png)
