@@ -37,3 +37,9 @@ Ejercicio 2: Ejercicio Palindromo
 Metodo implementado:
 
 ![alt text](assets/Ejercicio2.png)
+
+---
+
+**Salidas consola: Ejercicio 1 y 2**
+
+![alt text](assets/Consola.png)
