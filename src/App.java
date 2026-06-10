@@ -9,10 +9,22 @@ public class App {
         runLinkedList();
         runQueue();
         runStack();
+        System.out.println("");
+
         Ejercicio1 ejercicio1 = new Ejercicio1();
         String texto = "COMPUTACION";
+        System.out.println(texto);
         String invertido = ejercicio1.invertString(texto);
         System.out.println(invertido);
+
+        System.out.println("");
+        Ejercicio2 ejercicio2 = new Ejercicio2();
+        String palabra1 = "Oso";
+        System.out.println(palabra1);
+        System.out.println(ejercicio2.esPalindromo(palabra1.toLowerCase()));
+        String palabra2 = "cOdiGos";
+        System.out.println(palabra2);
+        System.out.println(ejercicio2.esPalindromo(palabra2.toLowerCase()));
     }
 
     private static void runStack() {

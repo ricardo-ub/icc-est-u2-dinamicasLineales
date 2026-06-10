@@ -19,6 +19,21 @@ En esta seccion se implementaran las siguientes estrucutras dinamicas lineales
 - Colas con Queue
 
 
+Implementar un método que reciba una cadena de texto y devuelva la misma cadena invertida.
+
 Ejercicio 1: Invertir un String utilizando una pila
 
-![alt text](image.png)
+![alt text](assets/Ejercicio1.png)
+
+---
+
+**Fecha:** 10/06/2026
+
+**Descripcion:**
+Se implementó un método que utiliza una pila para invertir una palabra y compararla, si ambas son iguales, la palabra es palíndroma y retorna true sino retorna false
+
+Ejercicio 2: Ejercicio Palindromo
+
+Metodo implementado:
+
+![alt text](assets/Ejercicio2.png)
